@@ -8,7 +8,7 @@ Run and watch for changes:
 
 ```
 cd tailwind/website
-npx tailwindcss -i ./src/styles.css -o ./public/styles.css --watch
+tailwindcss -i ./src/styles.css -o ./public/styles.css --watch
 ```
 
 ### How to use the blocks
