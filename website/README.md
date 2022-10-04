@@ -7,7 +7,7 @@ Run `npm install` to install all dependencies in the `package.json` file.
 Run and watch for changes:
 
 ```
-cd tailwind/website
+cd tailwind-css/website
 tailwindcss -i ./src/styles.css -o ./public/styles.css --watch
 ```
 
